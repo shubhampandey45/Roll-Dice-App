@@ -5,7 +5,7 @@
 **Roll Dice App** prompts the user to click on the button presented on the screen. When the "Roll" button is clicked cube displayed changes the value shown.
 * User navigates through the process of making lemonade in 4 steps.
 
-Time spent: **10** hours in total
+Time spent: **7** hours in total
 
 ## Functionality
 
@@ -22,7 +22,7 @@ The following **required** functionaliy is completed:
 
 ## Video Walkthrough
 
-![]()
+![](https://github.com/shubhampandey45/Roll-Dice-App/blob/master/giphy%20(1).gif)
 
 
 ## License
